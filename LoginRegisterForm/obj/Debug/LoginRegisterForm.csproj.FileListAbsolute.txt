@@ -1,0 +1,11 @@
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\bin\Debug\LoginRegisterForm.exe.config
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\bin\Debug\LoginRegisterForm.exe
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\bin\Debug\LoginRegisterForm.pdb
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.csproj.AssemblyReference.cache
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.Form1.resources
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.Properties.Resources.resources
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.csproj.GenerateResource.cache
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.csproj.CoreCompileInputs.cache
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.exe
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.pdb
+D:\vs.c#\LoginRegisterForm\LoginRegisterForm\obj\Debug\LoginRegisterForm.SignUp.resources

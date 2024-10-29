@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace LoginRegisterForm
 {
-    public partial class Form1 : Form
+    public partial class SignUp : Form
     {
-        public Form1()
+        public SignUp()
         {
             InitializeComponent();
-        }
-
-        private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label7_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
